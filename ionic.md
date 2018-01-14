@@ -1,3 +1,3 @@
-#Ionic
+# Ionic
 
-syntax: [ionic documentation](https://ionicframework.com/docs/)
+[ionic documentation](https://ionicframework.com/docs/)
