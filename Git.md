@@ -6,3 +6,6 @@
 - [Private Repository를 ssh key를 이용하여 git clone 해오기](http://eminentstar.tistory.com/63)
 - [Git Flow](https://yangbongsoo.gitbooks.io/study/content/gitflow.html)
 - [깃허브(Github)로 취업하기 : git, github 올바른 관리 - sujinlee님](https://sujinlee.me/professional-github/)
+- [성공적인 Git branch 관리 Model](http://amazingguni.github.io/blog/2016/03/git-branch-%EA%B7%9C%EC%B9%99) - [Gunilog
+](http://amazingguni.github.io/)
+- [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9) - [Kim Ji-Heon](https://github.com/ihoneymon)
