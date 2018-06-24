@@ -7,3 +7,4 @@
 - [hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even)
 - [Hugo 시작하기 - Golang Korean Community](https://golangkorea.github.io/post/hugo-intro/getting-started/)
 - [사이트 테마 개발하기 - Golang Korean Community](https://golangkorea.github.io/post/hugo-intro/theme-customizing/)
+- [개발자를 위한 (블로그) 글쓰기 intro](https://www.slideshare.net/zzsza/intro-102870757) - [Seongyun Byeon](https://www.slideshare.net/zzsza?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
