@@ -1,3 +1,4 @@
 # JavaScript
 
 - [2016년과 이후 JavaScript동향 - naver D2](http://d2.naver.com/helloworld/3618177)
+- [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368) - [Naver D2 박재성님](https://d2.naver.com/search?keyword=%EB%B0%95%EC%9E%AC%EC%84%B1)
