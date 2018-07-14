@@ -11,3 +11,4 @@
 ](http://amazingguni.github.io/)
 - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9) - [Kim Ji-Heon](https://github.com/ihoneymon)
 - [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/) - [item4](https://about.jinsu.kim/resume/)
+- [About git | slideshare](https://www.slideshare.net/hyeseunglee6/hi-git1) - [오마이랩 사내 프레젠테이션 이혜승](https://www.slideshare.net/hyeseunglee6?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
