@@ -5,4 +5,5 @@
 - [OAuth와 춤을](https://d2.naver.com/helloworld/24942) - [Naver D2 오창훈님](https://d2.naver.com/search?keyword=%EC%98%A4%EC%B0%BD%ED%9B%88)
 - [웹 프로그래머(JAVA, JSP) 면접 예상 질문](http://hahahoho5915.tistory.com/16) - [hahahoho5915](http://hahahoho5915.tistory.com/)
 - [쉽게 알아보는 서버 인증 1편 세션/쿠키/토큰 기반 인증(JWT)](http://tansfil.tistory.com/58) - [자유로운 오랑우탄님 블로그](http://tansfil.tistory.com/)
+- [JWT | JSON Web Token 소개 및 구조](https://velopert.com/2389) - [VELOPERT.LOG](https://velopert.com/)
 
