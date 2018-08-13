@@ -7,4 +7,6 @@
 - [좋은 개발자 / 유명한 개발자](https://medium.com/@pitzcarraldo/%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%A0%EB%AA%85%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-19b20a7d6ace) - [Cho Minkyu](https://medium.com/@pitzcarraldo)
 - [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810) - [코드쓰는사람님 블로그](https://taegon.kim/aboutme)
    - `Why can't we find Front End developers? 번역글`
+- [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist) - [Park Seong-beom Github](https://github.com/ParkSB)
+   - `Front-End Performance Checklist 번역글`
 
