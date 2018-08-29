@@ -12,3 +12,5 @@
 - [웹 프론트엔드 개발자, 어떻게 준비해야 할까?](https://medium.com/@codesquad_yoda/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9) -코드스쿼드 마스터 윤지수님
 - [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 - [2018 front-end curriculum](https://github.com/nigayo/front-end-curriculum) -코드스쿼드 마스터 윤지수님
+- [Front-End 프로젝트의 Test Code 작성 경험기](https://lumiloves.github.io/2018/08/21/my-first-frontend-test-code-experience) - [공대아름님 블로그](https://lumiloves.github.io/about/)
+
