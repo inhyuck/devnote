@@ -10,3 +10,5 @@
 - [JAVA에서 자주 쓰이는 형변환](http://theeye.pe.kr/archives/457) - [아이군의 블로그](http://theeye.pe.kr/)
 - [초보자부터 경력자까지 자바 배우기 좋은 사이트 6선](http://www.ciokorea.com/news/39060#csidx7b5baee9fcebe0383c4ff57d549b45f) - [CIO korea](http://www.ciokorea.com/)
 
+- [Java 프로그래머가 알아야 할 20가지 유용한 라이브러리 - 20 Useful Libraries Java Programmers Should Know](https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme)
+
