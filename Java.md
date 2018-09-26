@@ -12,3 +12,5 @@
 
 - [Java 프로그래머가 알아야 할 20가지 유용한 라이브러리 - 20 Useful Libraries Java Programmers Should Know](https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme)
 
+- [자바8 람다를 이용한 정렬 (다중 조건 정렬)](http://broduck.tistory.com/6) - Comparator.comparing()
+
