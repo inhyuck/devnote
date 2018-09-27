@@ -14,3 +14,5 @@
 
 - [자바8 람다를 이용한 정렬 (다중 조건 정렬)](http://broduck.tistory.com/6) - Comparator.comparing()
 
+- [Top 10 Easy Performance Optimisations in Java](https://blog.jooq.org/2015/02/05/top-10-easy-performance-optimisations-in-java/) - java 성능 최적화 10가지 쉬운 방법
+
