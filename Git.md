@@ -14,4 +14,4 @@
 - [About git | slideshare](https://www.slideshare.net/hyeseunglee6/hi-git1) - [오마이랩 사내 프레젠테이션 이혜승](https://www.slideshare.net/hyeseunglee6?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 - [Git에서 제외시킬 파일 관리하기 .gitignore](https://juliahwang.kr/gitstudy/2017/10/02/Git%EC%97%90%EC%84%9C%EC%A0%9C%EC%99%B8%EC%8B%9C%ED%82%AC%ED%8C%8C%EC%9D%BC%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.html) - [JULIA'S DEVELOG](https://juliahwang.kr/)
 - [Git & GitHub 입문 goormedu 강의](http://edu.goorm.io/lecture/4661/git-and-github-%EC%9E%85%EB%AC%B8-by-%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C) - [코드스쿼드 정호영 마스터](https://codesquad.kr/)
-
+- [Git Commit Msg conventions](http://karma-runner.github.io/2.0/dev/git-commit-msg.html)
