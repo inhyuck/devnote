@@ -1,27 +1,23 @@
-# devnote
+# Database
 
-#### INHYUCK's dev Note!
+## Getting Super Powers
 
-#### reference : https://github.com/benelog/devnote
+Becoming a super hero is a fairly straight forward process:
 
-## Index
+```
+$ give me super-powers
+```
 
-- Programming language
-  - [C++](https://github.com/inhyuck/devnote/blob/master/CPP.md)
-  - [Java](https://github.com/inhyuck/devnote/blob/master/Java.md)
-  - [JavaScript](https://github.com/inhyuck/devnote/blob/master/JavaScript.md)
-  - [Scala](https://github.com/inhyuck/devnote/blob/master/Scala.md)
-  - [CSS](https://github.com/inhyuck/devnote/blob/master/Css.md)
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-- Database
-  - [Database](https://github.com/inhyuck/devnote/blob/master/Database.md)
-  - [MongoDB](https://github.com/inhyuck/devnote/blob/master/MongoDB.md)
-  - [Redis](https://github.com/inhyuck/devnote/blob/master/Redis.md)
+Once you're strong enough, save the world:
 
-- OS
-  - [Linux](https://github.com/inhyuck/devnote/blob/master/Linux.md)
-  - [MacOS](https://github.com/inhyuck/devnote/blob/master/MacOS.md)
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
 
-- Development
-  - [OOP](https://github.com/inhyuck/devnote/blob/master/OOP.md)
-  - [Test](https://github.com/inhyuck/devnote/blob/master/Test.md)
+
+
