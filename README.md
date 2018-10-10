@@ -13,4 +13,4 @@
 - Network
 - **Java**
 
-## [Dev Bookmark](https://github.com/inhyuck/devnote/bookmark)
+## [Dev Bookmark](https://github.com/inhyuck/devnote/tree/master/bookmark)
