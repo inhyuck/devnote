@@ -1,24 +1,16 @@
-# devnote
+# Devnote  🧐
 
 **INHYUCK's dev Note!**
 
-reference : <https://github.com/benelog/devnote>
+개발 관련된 정보를 정리하고 공유하는 공간입니다 :)
 
-## Index
+## Gitbook - [note.inhyuck.io](https://note.inhyuck.io)
 
-- Programming language
-  - [C++](https://github.com/inhyuck/devnote/blob/master/CPP.md)
-  - [Java](https://github.com/inhyuck/devnote/blob/master/Java.md)
-  - [JavaScript](https://github.com/inhyuck/devnote/blob/master/JavaScript.md)
-  - [Scala](https://github.com/inhyuck/devnote/blob/master/Scala.md)
-  - [CSS](https://github.com/inhyuck/devnote/blob/master/Css.md)
+- Data Structure
+- Algorithm
 - Database
-  - [Database](https://github.com/inhyuck/devnote/blob/master/Database.md)
-  - [MongoDB](https://github.com/inhyuck/devnote/blob/master/MongoDB.md)
-  - [Redis](https://github.com/inhyuck/devnote/blob/master/Redis.md)
 - OS
-  - [Linux](https://github.com/inhyuck/devnote/blob/master/Linux.md)
-  - [MacOS](https://github.com/inhyuck/devnote/blob/master/MacOS.md)
-- Development
-  - [OOP](https://github.com/inhyuck/devnote/blob/master/OOP.md)
-  - [Test](https://github.com/inhyuck/devnote/blob/master/Test.md)
+- Network
+- **Java**
+
+## [Dev Bookmark](https://github.com/inhyuck/devnote/bookmark)
