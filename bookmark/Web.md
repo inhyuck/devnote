@@ -7,3 +7,6 @@
 - [쉽게 알아보는 서버 인증 1편 세션/쿠키/토큰 기반 인증(JWT)](http://tansfil.tistory.com/58) - [자유로운 오랑우탄님 블로그](http://tansfil.tistory.com/)
 - [JWT | JSON Web Token 소개 및 구조](https://velopert.com/2389) - [VELOPERT.LOG](https://velopert.com/)
 - [차세대 웹 플랫폼 웹어셈블리](http://www.ciokorea.com/news/39145) - [ciokorea](http://www.ciokorea.com/)
+- [Naver DEVIEW 2018 - 웹 성능 최적화에 필요한 브라우저의 모든 것](https://www.slideshare.net/deview/125-119068291)
+  - 멀티 프로세스 기반의 최신 웹브라우저(웨일, 크롬, 오페라 등)에서 웹 콘텐츠를 어떻게 처리하여 화면에 렌더링 하는지에 대한 동작 원리에 대한 설명과, 이를 바탕으로 한 웹 성능 최적화 기법
+
