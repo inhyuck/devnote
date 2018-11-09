@@ -11,6 +11,12 @@
 - Database
 - OS
 - Network
-- **Java**
+- **Java** ☕️
+
+## MEDIUM - [medium.com/inhyuck](https://medium.com/inhyuck)
+
+- Project
+- Book
+- Daily Life
 
 ## [Dev Bookmark](https://github.com/inhyuck/devnote/tree/master/bookmark)
