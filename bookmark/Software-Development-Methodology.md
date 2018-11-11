@@ -11,4 +11,5 @@
 - [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1) - [doortts 님 블로그](https://repo.yona.io/doortts)
 - [Kakao 헤어샵의 TDD](https://brunch.co.kr/@cg4jins/9) - [카카오 헤어샵 개발자 최창규님 brunch](https://brunch.co.kr/@cg4jins#info)
 - [OKKYCON2018 | The Real TDD 요약 및 후기](https://brunch.co.kr/@kiyoungleefige/7) - [KiyoungLee  brunch](https://brunch.co.kr/@kiyoungleefige#info)
+- [OKKYCON 이혜승님 - 테알못 신입은 어떻게 테스트를 시작했을까?](https://www.slideshare.net/OKJSP/okkycon-120498066)
 
