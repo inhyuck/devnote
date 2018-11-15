@@ -20,3 +20,6 @@
 - Daily Life
 
 ## [Dev Bookmark](https://github.com/inhyuck/devnote/tree/master/bookmark)
+
+## [Seminar](https://github.com/inhyuck/devnote/tree/master/seminar)
+
