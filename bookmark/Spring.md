@@ -15,3 +15,9 @@
 - [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31) - [jojoldu님 블로그](http://jojoldu.tistory.com/)
 - [Spring - @Autowired, @Service, @Repository 구조](https://m.blog.naver.com/scw0531/220988401816) - [꿈꾸는 개발자님 블로그](https://m.blog.naver.com/PostList.nhn?blogId=scw0531)
 
+
+
+### Log
+
+- [ Java Logging Frameworks: log4j vs logback vs log4j2](https://stackify.com/compare-java-logging-frameworks/?fbclid=IwAR1OYIasC2UNMZZOKG8Ho3N2ydZapZOjKKDXFXOLUYrQxI6BzpQXncdnRsk)
+

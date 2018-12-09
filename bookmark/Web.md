@@ -10,3 +10,7 @@
 - [Naver DEVIEW 2018 - 웹 성능 최적화에 필요한 브라우저의 모든 것](https://www.slideshare.net/deview/125-119068291)
   - 멀티 프로세스 기반의 최신 웹브라우저(웨일, 크롬, 오페라 등)에서 웹 콘텐츠를 어떻게 처리하여 화면에 렌더링 하는지에 대한 동작 원리에 대한 설명과, 이를 바탕으로 한 웹 성능 최적화 기법
 
+
+
+- [왜 탈중앙화가 중요한가? 크리스 딕슨 - 해시드 한국어 블로그 : 크립토 네트워크](https://medium.com/hashed-kr/why-decentralization-matters-kr-1966d129c37a)
+
