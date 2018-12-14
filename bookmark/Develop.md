@@ -13,3 +13,4 @@
 - [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 - [2018 front-end curriculum](https://github.com/nigayo/front-end-curriculum) -코드스쿼드 마스터 윤지수님
 - [Front-End 프로젝트의 Test Code 작성 경험기](https://lumiloves.github.io/2018/08/21/my-first-frontend-test-code-experience) - [공대아름님 블로그](https://lumiloves.github.io/about/)
+- [기술 업계의 독성 말투 문제, 고칩시다! - 독성 말투의 예시, 발생하는 커뮤니케이션 문제와 대안, 번역 - 김용균님 블로그](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/?fbclid=IwAR2vOcaiRPlfBxw-u2hMxUrID37YaQRx1P5FsCSDev_zKj6oGYDXs5LcdWk)
