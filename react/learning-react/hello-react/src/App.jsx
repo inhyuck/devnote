@@ -1,17 +1,8 @@
-import './App.css';
+import MyClassComponent from './MyClassComponent.js';
 
-function App() {
-    const name = '리액트';
-    return (
-        <>
-            {/*주석은 이렇게 작성합니다.*/}
-            <div
-                className="react"
-            >{name
-            }</div>
-            <input type="text"/>
-        </>
-    );
-}
+const App = () => {
+    // return <MyComponent name={'최인혁'} favoriteNumber={3}></MyComponent>;
+    return <MyClassComponent name={'최인혁'} favoriteNumber={3}></MyClassComponent>;
+};
 
 export default App;
