@@ -1,8 +1,7 @@
-import MyClassComponent from './MyClassComponent.js';
+import Say from './Say.js';
 
 const App = () => {
-    // return <MyComponent name={'최인혁'} favoriteNumber={3}></MyComponent>;
-    return <MyClassComponent name={'최인혁'} favoriteNumber={3}></MyClassComponent>;
+    return <Say/>;
 };
 
 export default App;
